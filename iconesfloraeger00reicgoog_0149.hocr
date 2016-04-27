@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesfloraeger00reicgoog_0149.png"; bbox 0 0 5023 6409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1287 3780 1832 4568">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1287 3780 1832 4568">
+     <span class='ocr_line' id='line_1_1' title="bbox 1287 3780 1832 4568; baseline 0 1841"><span class='ocrx_word' id='word_1_1' title='bbox 1287 3780 1832 4568; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1797 5423 3555 5710">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1797 5423 3555 5710">
+     <span class='ocr_line' id='line_1_2' title="bbox 1797 5423 3555 5710; baseline -0.001 -107"><span class='ocrx_word' id='word_1_2' title='bbox 1797 5423 2835 5710; x_wconf 45' lang='lat' dir='ltr'><em>CZ‘AZWJAWZ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2856 5529 2961 5608; x_wconf 63' lang='lat' dir='ltr'><em>‚A</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3018 5511 3555 5602; x_wconf 58' lang='lat' dir='ltr'><em>mammſj</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 4526 650 4635 729">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 4526 650 4635 729">
+     <span class='ocr_line' id='line_1_3' title="bbox 4526 650 4635 729; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 4526 650 4635 729; x_wconf 68' lang='lat'><em>28.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

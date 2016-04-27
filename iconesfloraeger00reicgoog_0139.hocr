@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesfloraeger00reicgoog_0139.png"; bbox 0 0 5023 6409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1826 5566 3306 5737">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1826 5566 3306 5737">
+     <span class='ocr_line' id='line_1_1' title="bbox 1826 5566 3306 5737; baseline 0.001 -62"><span class='ocrx_word' id='word_1_1' title='bbox 1826 5566 2348 5675; x_wconf 37' lang='lat' dir='ltr'><em>&amp;Acamas</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2406 5566 3100 5737; x_wconf 38' lang='grc' dir='ltr'><em>άλιηᾶγζίαφῑακ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 3136 5566 3306 5676; x_wconf 34' lang='lat' dir='ltr'><em>eff?</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4983 0 4985 4642">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4983 0 4985 4642">
+     <span class='ocr_line' id='line_1_2' title="bbox 4983 0 4985 4642; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 4983 0 4985 4642; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 4983 1725 4985 4642">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 4983 1725 4985 4642">
+     <span class='ocr_line' id='line_1_3' title="bbox 4983 1725 4985 4642; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 4983 1725 4985 4642; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4983 4864 4984 5479">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4983 4864 4984 5479">
+     <span class='ocr_line' id='line_1_4' title="bbox 4983 4864 4984 5479; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 4983 4864 4984 5479; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

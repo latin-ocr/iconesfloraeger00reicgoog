@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesfloraeger00reicgoog_0171.png"; bbox 0 0 5023 6409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 4075 15 5023 156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 4075 15 5023 156">
+     <span class='ocr_line' id='line_1_1' title="bbox 4075 15 5023 156; baseline 0 6253"><span class='ocrx_word' id='word_1_1' title='bbox 4075 15 5023 156; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4513 649 4624 710">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4513 649 4624 710">
+     <span class='ocr_line' id='line_1_2' title="bbox 4513 649 4624 710; baseline 0.018 -2"><span class='ocrx_word' id='word_1_2' title='bbox 4513 649 4624 710; x_wconf 75' lang='lat'><em>39.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1688 2626 4159 4477">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1688 2626 4159 4477">
+     <span class='ocr_line' id='line_1_3' title="bbox 1688 2626 4159 4477; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1688 2626 4159 4477; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1976 5420 3387 5587">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1976 5420 3387 5587">
+     <span class='ocr_line' id='line_1_4' title="bbox 1976 5420 3387 5587; baseline 0 -45"><span class='ocrx_word' id='word_1_4' title='bbox 1976 5502 2004 5542; x_wconf 56' lang='grc' dir='ltr'>ς</span> <span class='ocrx_word' id='word_1_5' title='bbox 2041 5424 2574 5542; x_wconf 39' lang='lat' dir='ltr'><em>‘Vidamas</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2607 5420 3269 5587; x_wconf 52' lang='lat' dir='ltr'><em>afflmffllss</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 3287 5423 3387 5542; x_wconf 51' lang='lat' dir='ltr'><strong>ff</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 750 5530 1171 5571">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 750 5530 1171 5571">
+     <span class='ocr_line' id='line_1_5' title="bbox 750 5530 1171 5571; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 750 5531 808 5570; x_wconf 73' lang='lat' dir='ltr'><em>J?</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 838 5530 1045 5570; x_wconf 57' lang='lat' dir='ltr'><em>axau</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1071 5532 1171 5571; x_wconf 75' lang='lat' dir='ltr'><em>dez.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
